@@ -1,7 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/meetnode/adobe-storefront.git/
     type: markup
-
-folders:
-  /products/: /products/default
